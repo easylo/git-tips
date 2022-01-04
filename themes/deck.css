@@ -1,0 +1,122 @@
+/* 
+ * @theme deck
+ * @size 4:3 false
+ * @size 16:9 1280px 720px
+ * @size 1080 1920px 1080px
+ * @size 4K 3840px 2160px
+*/
+
+@import 'gaia';
+/* @import 'uncover'; */
+/* @import 'default'; */
+
+:root {
+  --color-fg-default: #eff;
+  --color-canvas-default: #246;
+  --color-foreground: #487ca3;
+}
+
+section {
+    background-color: #fefefe;
+    color: #333;
+  }
+  
+  img[alt~="space"] {
+    float: left;
+    padding-left: 50px;
+    /* text-align: center; */
+  }
+
+  img[alt~="left"] {
+    float: left;
+    padding-left: 150px;
+    /* text-align: center; */
+  }
+  img[alt~="center"] {
+    /* display: flex; */
+    display: block;
+    margin: 0 auto;
+    width:50px;
+    /* text-align: center; */
+  }
+  img[alt~="right"] {
+    float: right;
+    padding-right: 150px;
+  }
+  /* code {
+    background: #03f5e1;
+    border-left: 10px solid #0ad2f5;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+  } */
+  blockquote {
+    background: rgb(92, 178, 240);
+    border-left: 10px solid rgb(72,124,163);
+    color: white;
+    margin-top: 50px !important;
+    /* margin: 1.5em 10px;
+    padding: 0.5em 10px; */
+  }
+  blockquote:before{
+    content: unset;
+  }
+  blockquote:after{
+    content: unset;
+  }
+
+  code {
+    /* color: rgb(248, 248, 72); */
+    /* color: gray; */
+    /* background: rgb(72,124,163) !important; */
+    border-left: 10px solid rgb(155, 153, 153);
+    padding: 1em !important;
+    /* margin: 1.5em 10px;
+    padding: 0.5em 10px; */
+  }
+
+    h4 {
+      font-size: smaller;
+      font-weight: normal;
+    }
+
+header,
+footer {
+  position: absolute;
+  left: 50px !important;
+  right: 50px;
+  height: 40px;
+  font-size: small;
+  overflow: visible;
+  /* border: solid 1px red; */
+}
+
+header {
+  top: 20px;
+}
+
+footer {
+  bottom: 60px;
+}
+footer img{
+  /* height: 20px; */
+  /* max-width: 100%; */
+  /* height: auto; */
+  /* object-fit: scale-down; */
+  object-fit: contain;
+  vertical-align: middle;
+}
+
+/* .octagon {
+  clip-path: polygon(33.33% 0%, 66.66% 0%, 100% 33.33%, 100% 66.66%, 66.66% 100%, 33.33% 100%, 0 66.66%, 0 33.33%);
+} */
+img[alt~="hexagon"],
+.hexagon {
+  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+  /* background: url("https://i.imgur.com/waDgcnc.jpg") no-repeat; */
+  background-size: cover;
+  margin: 10px auto;
+  height: 200px;
+  width: 200px;   
+  border: solid 1px darkgray;   
+  float: left;
+}
