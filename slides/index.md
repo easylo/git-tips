@@ -31,6 +31,23 @@ backgroundImage: url('assets/hero-background.svg')
 <br />
 
 ---
+![bg opacity left:20%](assets/mohammad-rahmani-6tG4sQx0dh4-unsplash.jpg)
+![width:200 hexagon](assets/me.jpg ) 
+<br />
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laurent RICHARD
+<br />
+
+##### **OpenClassrooms** _Infrastructure Manager_
+
+<br />
+
+[![space height:50 ](assets/twitter.png)](https://twitter.com/_LaurentRICHARD) [![space height:50 ](assets/linkedin.png)](https://www.linkedin.com/in/larichard/) [![space height:50 ](assets/github.png)](https://github.com/easylo/)
+
+---
+# Join us
+[Join us](https://www.linkedin.com/jobs/view/2719780900/)
+
+---
 
 > Initialize an existing directory as a Git repository
 
@@ -486,17 +503,3 @@ $ git config --global alias.unstage 'reset HEAD --'
         st = status
         unstage = 'reset HEAD --'
 ```
-
-
----
-![bg opacity left:20%](assets/mohammad-rahmani-6tG4sQx0dh4-unsplash.jpg)
-![width:200 hexagon](assets/me.jpg ) 
-<br />
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laurent RICHARD
-<br />
-
-##### **OpenClassrooms** _Infrastructure Manager_
-
-<br />
-
-[![space height:50 ](assets/twitter.png)](https://twitter.com/_LaurentRICHARD) [![space height:50 ](assets/linkedin.png)](https://www.linkedin.com/in/larichard/) [![space height:50 ](assets/github.png)](https://github.com/easylo/)
