@@ -38,6 +38,8 @@ backgroundImage: url('assets/hero-background.svg')
 
 ```bash
 $ git init
+$ git init --initial-branch=main # define the initial branch name
+$ git init -b=main # short version
 ```
 
 ---
