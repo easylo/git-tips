@@ -10,6 +10,7 @@ url: https://easylo.github.io/git-tips/
 theme: deck
 # size: 1080
 size: 16:9
+
 markdown.marp.enableHtml: true
 
 header:  '_Git: master all secrets_'
@@ -30,6 +31,8 @@ backgroundImage: url('assets/hero-background.svg')
 # <!--fit--> _master all secrets_
 <br />
 
+<base target="_blank" />
+
 ---
 ![bg opacity left:20%](assets/mohammad-rahmani-6tG4sQx0dh4-unsplash.jpg)
 ![width:200 hexagon](assets/me.jpg ) 
@@ -44,8 +47,9 @@ backgroundImage: url('assets/hero-background.svg')
 [![space height:50 ](assets/twitter.png)](https://twitter.com/_LaurentRICHARD) [![space height:50 ](assets/linkedin.png)](https://www.linkedin.com/in/larichard/) [![space height:50 ](assets/github.png)](https://github.com/easylo/)
 
 ---
-# Join us
-[Join us](https://www.linkedin.com/jobs/view/2719780900/)
+![bg right:40%](assets/ocr_hero.jpg)
+
+# [Join the Infrastructure Team](https://www.linkedin.com/jobs/view/2719780900/)
 
 ---
 

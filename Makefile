@@ -1,6 +1,6 @@
 
 publish:
-	marp
+	marp --html
 	# gh-pages
 
 dev:
