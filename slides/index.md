@@ -34,7 +34,7 @@ backgroundImage: url('assets/hero-background.svg')
 <base target="_blank" />
 
 ---
-![bg opacity left:20%](assets/mohammad-rahmani-6tG4sQx0dh4-unsplash.jpg)
+![bg brightness left:20%](assets/mohammad-rahmani-6tG4sQx0dh4-unsplash.jpg)
 ![width:200 hexagon](assets/me.jpg ) 
 <br />
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laurent RICHARD
@@ -47,9 +47,21 @@ backgroundImage: url('assets/hero-background.svg')
 [![space height:50 ](assets/twitter.png)](https://twitter.com/_LaurentRICHARD) [![space height:50 ](assets/linkedin.png)](https://www.linkedin.com/in/larichard/) [![space height:50 ](assets/github.png)](https://github.com/easylo/)
 
 ---
-![bg right:40%](assets/ocr_hero.jpg)
+![bg opacity](assets/original.webp)
 
-# [Join the Infrastructure Team](https://www.linkedin.com/jobs/view/2719780900/)
+![right OpenClassrooms](assets/primary.svg)
+<br />
+
+### At OpenClassrooms, we believe that everybody can learn anything and that everybody has something to share.
+
+### Our mission is to make education accessible. To everybody. Everywhere. We’re working to do that every day, and we have been doing it for 20 years.
+
+### Mathieu Nebra started OpenClassrooms when he was 13 years old and was soon joined by Pierre Dubuc.
+
+---
+![bg right:30%](assets/ocr_hero.jpg)
+
+# [Join the Infrastructure Team](https://jobs.openclassrooms.com/fr/jobs/1196158-devops-engineer-h-f-x)
 
 ---
 

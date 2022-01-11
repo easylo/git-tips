@@ -46,7 +46,7 @@ img[alt~="center"] {
 
 img[alt~="right"] {
     float: right;
-    padding-right: 150px;
+    /* padding-right: 150px; */
 }
 
 
@@ -89,8 +89,16 @@ h4 {
     font-weight: normal;
 }
 
-
-/* h1>a[href~="jobs"] { */
+section>h3 {
+    font-size:1em;
+    font-weight: bolder;
+    color: #2c2b2b;
+    /* background-color: #b6b6b621; */
+    background-clip: content-box;
+    background-origin: content-box;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
 
 h1>a {
     position: absolute;
@@ -138,6 +146,13 @@ footer img {
 /* .octagon {
   clip-path: polygon(33.33% 0%, 66.66% 0%, 100% 33.33%, 100% 66.66%, 66.66% 100%, 33.33% 100%, 0 66.66%, 0 33.33%);
 } */
+
+a[href~="https://openclassrooms.fr"] {
+  color:#7451eb !important;
+  text-decoration: none;
+  font-size: 1.5em;
+  font-weight: bold;
+}
 
 img[alt~="hexagon"],
 .hexagon {

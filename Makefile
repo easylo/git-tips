@@ -1,7 +1,7 @@
 
 publish:
+	rsync -av slides/assets/* docs/assets/
 	marp --html
-	# gh-pages
 
 dev:
 	marp -w
