@@ -6,6 +6,8 @@ author: Laurent RICHARD
 keywords: marp,slide,git,tips
 url: https://easylo.github.io/git-tips/
 image: https://easylo.github.io/git-tips/assets/caption.png
+twitter:image: https://easylo.github.io/git-tips/assets/caption.png
+# twitter:card: summary_large_image
 
 theme: deck
 # size: 1080
