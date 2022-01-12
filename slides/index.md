@@ -5,7 +5,7 @@ description: Git tips
 author: Laurent RICHARD
 keywords: marp,slide,git,tips
 url: https://easylo.github.io/git-tips/
-# image: https://marp.app/og-image.jpg
+image: https://easylo.github.io/git-tips/caption.png
 
 theme: deck
 # size: 1080
