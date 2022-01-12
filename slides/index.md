@@ -32,6 +32,15 @@ backgroundImage: url('assets/hero-background.svg')
 <br />
 
 <base target="_blank" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-55YPBZQY0M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-55YPBZQY0M');
+</script>
 
 ---
 ![bg brightness left:20%](assets/mohammad-rahmani-6tG4sQx0dh4-unsplash.jpg)
