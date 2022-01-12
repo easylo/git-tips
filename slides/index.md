@@ -15,7 +15,7 @@ markdown.marp.enableHtml: true
 
 header:  '_Git: master all secrets_'
 _header: ''
-footer: '![logo height:20](assets/logo.png) Git Tips - Laurent RICHARD - 2022'
+footer: '![logo height:20](assets/logo.png) Git Tips - Laurent RICHARD - 2022 - last update 2022/01/12'
 _footer: ''
 
 paginate: true
@@ -32,13 +32,12 @@ backgroundImage: url('assets/hero-background.svg')
 <br />
 
 <base target="_blank" />
-<!-- Global site tag (gtag.js) - Google Analytics -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-55YPBZQY0M"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-55YPBZQY0M');
 </script>
 
